@@ -1,0 +1,39 @@
+.m-t-10{
+    margin-top: 10px;
+}
+
+.m-t-15{
+    margin-top: 15px;
+}
+
+.m-t-20{
+    margin-top: 20px;
+}
+
+.m-lr-10{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.subtitle{
+    font-size: 14px;
+    color: #777;
+}
+
+.episode-listing{
+    margin: 15px 0 !important;
+    border-bottom: 1px solid #ccc;
+}
+
+.grayed-text{
+color: #ccc;
+font-size: 12px;
+}
+
+.row{
+    margin: 0;
+}
